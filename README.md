@@ -1,2 +1,2 @@
-# HabitLife2
+# HabitLifeAPI
 Plataforma HabitLife para hábitos saludables
